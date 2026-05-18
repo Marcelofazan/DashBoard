@@ -7,7 +7,7 @@ function Dashboard() {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
         <div className="bg-white p-5 rounded shadow">
           <p className="text-sm text-gray-500">Usuários Ativos</p>
-          <p className="text-3xl font-bold mt-2">1.200</p>
+          <p className="text-3xl font-bold mt-2">1.599</p>
           <p className="text-green-600 text-sm mt-1">+5% hoje</p>
         </div>
 

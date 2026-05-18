@@ -1,0 +1,29 @@
+git config --global user.name "Mgfazan"
+git config --global user.email "mmgustavo33@gmail.com"
+git clone https://github.com/Marcelofazan/DashBoard.git c:/Dashboard
+
+//Criar Branch
+git checkout -b "001-001"
+git branch "001-002"
+
+//Mudar de branch 
+git checkout "001.002"
+
+// Achar repositório "origin"
+git remote -v
+
+// Salvar Local
+git commit -am "Alteração Relatório"
+
+//Enviar para o Servidor
+git push
+
+// Fazer commit servidor 
+git push -u origin "001.001"
+
+// Efetuar alterações fisicas Remoto
+git pull
+
+
+git commit -m "Alterado Relatório"
+git push
