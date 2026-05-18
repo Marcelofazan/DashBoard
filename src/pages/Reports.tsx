@@ -2,6 +2,7 @@ const reports = [
   { id: 1, name: 'Relatório de Vendas', date: '2026-01-20', status: 'Concluído' },
   { id: 2, name: 'Atividade de Usuários', date: '2026-01-18', status: 'Concluído' },
   { id: 3, name: 'Performance do Sistema', date: '2026-01-15', status: 'Em análise' },
+  { id: 4, name: 'Relatório Git', date: '2026-05-18', status: 'Em análise' }
 ]
 
 function Reports() {
