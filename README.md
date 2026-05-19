@@ -1,7 +1,7 @@
 ## 🚀 DashBoard
 Exemplo de criação de Dashboard desenvolvido em **React + TypeScript**, com layout responsivo e foco em boas práticas de organização e estado global
 
-### O que voçê vai ver nesse Projeto
+#### O que voçê vai ver nesse Projeto
 - Navegação entre páginas (Dashboard, Reports e Settings)
 - Estado global com Context API
 - Layout reutilizável (Header, Sidebar)
@@ -9,19 +9,19 @@ Exemplo de criação de Dashboard desenvolvido em **React + TypeScript**, com la
 - Estrutura preparada para integração com APIs
 - Estilização com Tailwind CSS
 
-###🛠️ Tecnologias Utilizadas
+#### 🛠️ Tecnologias Utilizadas
 - React
 - TypeScript
 - Vite
 - Tailwind CSS
 - Context API
 
-### Execução da aplicação
-Recuperar as dependencias do projeto node_modules . 
+#### Execução da aplicação
+- Recuperar as dependencias do projeto node_modules . 
 ```bash
 npm install
 ```
-Executar o projeto 
+- Executar o Build do Projeto
 
 ```bash
 npm run dev
