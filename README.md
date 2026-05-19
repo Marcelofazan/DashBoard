@@ -1,8 +1,8 @@
-# Dashboard Administrativo
+### 🚀 Dashboard
 
-Dashboard administrativo desenvolvido em **React + TypeScript**, com layout responsivo e foco em boas práticas de organização e estado global
+Exemplo de criação de Dashboard desenvolvido em **React + TypeScript**, com layout responsivo e foco em boas práticas de organização e estado global
 
-## Funcionalidades
+### O que voçê vai ver nesse Projeto
 
 - Navegação entre páginas (Dashboard, Reports e Settings)
 - Estado global com Context API
@@ -11,7 +11,7 @@ Dashboard administrativo desenvolvido em **React + TypeScript**, com layout resp
 - Estrutura preparada para integração com APIs
 - Estilização com Tailwind CSS
 
-## Tecnologias Utilizadas
+###🛠️ Tecnologias Utilizadas
 
 - React
 - TypeScript
@@ -19,8 +19,15 @@ Dashboard administrativo desenvolvido em **React + TypeScript**, com layout resp
 - Tailwind CSS
 - Context API
 
-## Como executar o projeto
+#### Execução da aplicação
 
+Recuperar as dependencias do projeto node_modules . 
 ```bash
 npm install
+```
+Executar o projeto 
+
+```bash
 npm run dev
+```
+https://dash-board-umber-sigma.vercel.app/
