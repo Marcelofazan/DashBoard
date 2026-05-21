@@ -16,7 +16,7 @@ Exemplo de criação de Dashboard desenvolvido em **React + TypeScript**, com la
 - Tailwind CSS
 - Context API
 
-#### Execução da aplicação
+#### Requisitos e Detalhe do uso
 - Recuperar as dependencias do projeto node_modules . 
 ```bash
 npm install
