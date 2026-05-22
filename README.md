@@ -1,7 +1,7 @@
 ## 🚀 Dashboard
 
 <p align="center">
-Exemplo de criação de Dashboard desenvolvido em **React + TypeScript**, com layout responsivo e foco em boas práticas de organização e estado global
+Exemplo de criação de Dashboard desenvolvido em [React + TypeScript], com layout responsivo e foco em boas práticas de organização e estado global
 </p>
 
 #### Projeto
