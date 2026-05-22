@@ -5,7 +5,7 @@ Exemplo de criação de Dashboard desenvolvido em **React + TypeScript**, com la
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Tecnologias
@@ -34,5 +34,5 @@ npm install
 npm run dev
 ```
 
-#### Layout
+## :memo: Layout
 https://dash-board-umber-sigma.vercel.app/
