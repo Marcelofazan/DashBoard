@@ -1,21 +1,10 @@
 ## 🚀 Dashboard
-Exemplo de criação de Dashboard desenvolvido em **React + TypeScript**, com layout responsivo e foco em boas práticas de organização e estado global
 
 <p align="center">
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+Exemplo de criação de Dashboard desenvolvido em **React + TypeScript**, com layout responsivo e foco em boas práticas de organização e estado global
 </p>
 
-## Tecnologias
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- Context API
-
-## Projeto
+#### Projeto
 - Navegação entre páginas (Dashboard, Reports e Settings)
 - Estado global com Context API
 - Layout reutilizável (Header, Sidebar)
@@ -23,7 +12,14 @@ Exemplo de criação de Dashboard desenvolvido em **React + TypeScript**, com la
 - Estrutura preparada para integração com APIs
 - Estilização com Tailwind CSS
 
-## Requisitos
+#### Tecnologias
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Context API
+
+#### Requisitos
 - Recuperar as dependencias do projeto node_modules . 
 ```bash
 npm install
@@ -34,5 +30,13 @@ npm install
 npm run dev
 ```
 
-## Layout
+#### Layout
 https://dash-board-umber-sigma.vercel.app/
+
+<p align="center">
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
